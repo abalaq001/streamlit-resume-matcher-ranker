@@ -1,0 +1,18 @@
+Ananya Verma  
+Email: ananya.verma@example.com  
+Phone: 987-111-22334
+
+Summary:  
+Frontend Developer with 2+ years of experience in building responsive and accessible web interfaces. Skilled in modern JavaScript frameworks and design systems.
+
+Skills:  
+- HTML, CSS, JavaScript  
+- React, Vue, Bootstrap, Figma
+
+Experience:  
+Frontend Developer – CodeCraft Ltd. (2022–Present)  
+- Built reusable UI components reducing development time by 35%  
+- Collaborated closely with UX designers for accessibility compliance
+
+Education:  
+B.Tech in Information Technology – JKL University

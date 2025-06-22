@@ -1,0 +1,17 @@
+
+=== EDUCATION ===
+Education:
+B.Tech in Computer Science ? DEF Institute
+
+=== EXPERIENCE ===
+Software Engineer with 4+ years of experience in developing scalable web applications and backend systems. Specializes in Python, JavaScript, and cloud deployments.
+Skills:
+- Python, JavaScript, Flask, React
+- AWS, Docker, PostgreSQL
+Experience:
+Software Engineer ? TechWave Inc. (2020?Present)
+- Built and maintained a cloud-native task management platform
+- Reduced API response times by 40%
+
+=== SUMMARY ===
+Summary:

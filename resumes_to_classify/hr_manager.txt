@@ -1,0 +1,15 @@
+Aisha Khan
+Email: aisha.khan@example.com
+Phone: 998-556-7788
+Summary:
+HR Manager with over 6 years of experience in recruitment, employee engagement, and compliance. Strong interpersonal skills with a focus on inclusive hiring.
+Skills:
+- Talent Acquisition, Onboarding
+- Employee Relations, Labor Laws
+- HRIS: SAP, BambooHR
+Experience:
+HR Manager ? GlobalTech (2018?Present)
+- Reduced time-to-hire by 30% through streamlined recruitment processes
+- Designed and implemented DEI training programs
+Education:
+MBA in Human Resources ? GHI Business School

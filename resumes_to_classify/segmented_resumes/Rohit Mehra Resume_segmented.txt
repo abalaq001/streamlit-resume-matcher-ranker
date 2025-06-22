@@ -1,0 +1,17 @@
+
+=== EDUCATION ===
+Education:
+MBA in Business Analytics – MNO Business School
+
+=== EXPERIENCE ===
+Experience:
+Business Analyst – FinEdge Consulting (2019–Present)
+- Created KPI dashboards used in monthly executive reporting
+- Managed backlog grooming and sprint planning with Scrum team
+
+=== SUMMARY ===
+Summary:
+Business Analyst with a strong background in data analytics, financial modeling, and stakeholder communication. Experienced in Agile environments.
+Skills:
+- Excel, SQL, Tableau
+- Requirements Gathering, A/B Testing

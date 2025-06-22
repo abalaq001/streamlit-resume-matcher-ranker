@@ -1,0 +1,18 @@
+
+=== EDUCATION ===
+Education:
+M.S. in Data Science ? ABC University
+
+=== EXPERIENCE ===
+Data Scientist with 3+ years of experience in statistical modeling, machine learning, and data visualization. Passionate about deriving insights from data to drive business strategy.
+Skills:
+- Python, R, SQL
+- Scikit-learn, TensorFlow, Pandas
+- Tableau, Power BI
+Experience:
+Data Scientist ? XYZ Corp (2021?Present)
+- Developed predictive models for customer churn with 87% accuracy
+- Automated reporting pipelines using Python
+
+=== SUMMARY ===
+Summary:

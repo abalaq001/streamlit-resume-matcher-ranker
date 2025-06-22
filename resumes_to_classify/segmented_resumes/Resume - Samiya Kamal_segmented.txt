@@ -1,0 +1,43 @@
+
+=== EDUCATION ===
+EDUCATION
+Bachelor of Technology (B.Tech) in Artificial Intelligence 2023-2027
+Zakir Hussain College of Engineering and Technology , Aligarh Muslim University , Aligarh , Uttar
+Pradesh
+Senior Secondary Education Graduated in 2023
+Jawahar Vidya Mandir , Shyamali , Ranchi , Jharkhand
+
+=== EXPERIENCE ===
+EXPERIENCE
+April 2024 - Present
+Interaction Team Member , AMU ML Club
+Organized and hosted interactive sessions and quizzes on AI/ML topics.
+Supported ML workshops
+Technical Team Member , IEECS Club Sept 2024 - Present
+Contributed to technical initiatives within the club .
+Supported coding activities and research-oriented tasks .
+
+=== SKILLS ===
+TECHNICAL SKILLS
+Languages: Python (Proficient), C++, ML/DL Tools & Libraries: Scikit- DSA: Strong grasp of core
+C (Intermediate) learn, TensorFlow, NumPy, Pandas, algorithms and coding practices
+Data Science & Analytics: Data Matplotlib, Seaborn (Intermediate) Tools: Jupyter Notebook, Google
+Cleaning, Preprocessing, EDA, Data Visualization: Matplotlib, Colab
+Feature Engineering, Statistical Seaborn, Tableau Research Skills: Literature
+Analysis (Intermediate) Review, Research Paper Analysis
+LANGUAGES KNOWN
+English (Fluent)
+Urdu (Fluent)
+Hindi (Fluent)
+
+=== PROJECTS ===
+collaborative work, seeking a summer internship to apply theoretical knowledge to practical projects and
+grow as a contributing member of a dynamic team
+PROJECTS
+University Chat Bot (In Progress)
+Developing a chatbot tailored for student queries and campus information
+
+=== SUMMARY ===
+SUMMARY
+Second-year B.Tech student specializing in Artificial Intelligence at Aligarh Muslim University. Proficient in
+Python with a strong foundation in Data Science and keen interest in AI. Adept in communication and
