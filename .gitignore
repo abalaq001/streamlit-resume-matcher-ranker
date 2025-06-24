@@ -12,4 +12,7 @@ resources/*.json
 # ✅ Ignore Jupyter notebooks’ auto-checkpoints
 .ipynb_checkpoints/
 
+
+venv/
+
 venv/
